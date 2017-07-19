@@ -69,3 +69,9 @@ plot(volest, type="l")
 lines(volest2, type="l", col="red")
 lines(volest3, type="l", col="blue")
 ```
+
+# SNP Plot
+![SNP Time Series](/analysis/GSPC_time_series.png)
+
+# Amazon Plot
+![Amazon Time Series](/analysis/AMZN_time_series.png)
